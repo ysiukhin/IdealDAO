@@ -1,0 +1,11 @@
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\controller\Servlet.java
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\model\dao\DaoFactory.java
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\model\dao\implement\JDBCDriverDao.java
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\model\dao\DriverDao.java
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\model\dao\GenericDao.java
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\model\dao\CarDao.java
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\model\entity\Car.java
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\model\dao\implement\JDBCDaoFactory.java
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\App.java
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\model\entity\Driver.java
+C:\Users\Maxim\IdeaProjects\CarDB\CarAndDriver\src\main\java\ua\training\model\dao\implement\JDBCCarDao.java

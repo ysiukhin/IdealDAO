@@ -1,0 +1,11 @@
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\model\dao\DaoFactory.java
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\controller\Servlet.java
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\model\entity\Car.java
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\model\dao\CarDao.java
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\model\dao\DriverDao.java
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\model\dao\implement\JDBCDaoFactory.java
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\model\dao\implement\JDBCDriverDao.java
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\model\dao\GenericDao.java
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\model\entity\Driver.java
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\model\dao\implement\JDBCCarDao.java
+C:\Users\MaxVL68\Google Drive\JAVA_2020-1_2\TUTORIAL\Samples\DAO\CarAndDriver\CarAndDriver\src\main\java\ua\training\App.java

@@ -1,0 +1,12 @@
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\dao\DoctorDao.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\entity\Patient.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\dao\impl\JDBCPatientDao.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\dao\impl\UtilityDao.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\dao\PatientDao.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\dao\impl\JDBCDoctorDao.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\Servlet.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\dao\DaoFactory.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\entity\Doctor.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\App.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\dao\impl\JDBCDaoFactory.java
+C:\Users\Maxim\IdeaProjects\DoctorDB\src\main\java\org\itstep\dao\GenericDao.java

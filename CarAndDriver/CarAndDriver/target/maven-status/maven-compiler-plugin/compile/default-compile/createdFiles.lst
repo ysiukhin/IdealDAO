@@ -1,0 +1,11 @@
+ua\training\model\dao\implement\JDBCCarDao.class
+ua\training\controller\Servlet.class
+ua\training\model\dao\GenericDao.class
+ua\training\model\entity\Driver.class
+ua\training\model\dao\CarDao.class
+ua\training\model\dao\DriverDao.class
+ua\training\App.class
+ua\training\model\dao\DaoFactory.class
+ua\training\model\dao\implement\JDBCDaoFactory.class
+ua\training\model\dao\implement\JDBCDriverDao.class
+ua\training\model\entity\Car.class
